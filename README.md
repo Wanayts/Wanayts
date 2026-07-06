@@ -2,131 +2,72 @@
 
 # Wanayts.dev
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Building+Practical+Web+Applications;Always+Learning+Something+New)](https://git.io/typing-svg)
+### Software Developer
 
 Building practical web applications through continuous learning and real-world projects.
 
 <p>
-<a href="https://wanaytsdev.netlify.app">Portfolio</a> •
-<a href="https://wanaytsdev.netlify.app/projects">Projects</a> •
-<a href="mailto:johnwanayts@gmail.com">Email</a>
+  <a href="https://wanaytsdev.netlify.app">🌐 Portfolio</a> •
+  <a href="mailto:johnwanayts@gmail.com">📧 Email</a>
 </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Information+Technology+Graduate;Web+Application+Developer;Always+Learning+and+Building)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-## 👋 About
-
-Hi, I'm **Ray**.
-
-A **Bachelor of Science in Information Technology** graduate passionate about creating responsive, user-friendly, and practical web applications.
-
-I enjoy understanding how systems work, reading existing code, solving problems, and continuously improving my skills through personal and academic projects.
-
-Currently looking for opportunities where I can continue learning, collaborate with a team, and build software that makes a difference.
-
-</td>
-
-<td width="42%" valign="top">
-
-## 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github"/>
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
+# 🚀 Featured Work
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-## 🚕
+## 🚕 TechTaxi Website
 
-### TechTaxi Website
+A responsive corporate website developed using modern front-end technologies.
 
-Responsive corporate website developed for TechTaxi.
+**Tech Stack**
 
-#### Built With
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+</p>
 
-HTML5
+🔗 **Live Website**
 
-CSS3
-
-JavaScript
-
-Bootstrap
-
-<br>
-
-<a href="https://www.techtaxiinc.com/">🌐 Live Website</a>
+https://www.techtaxiinc.com/
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚
+## 📚 OnSmile
 
-### OnSmile
+Capstone project that provides a practical web-based solution.
 
-Capstone project focused on delivering a practical web-based solution.
+**Tech Stack**
 
-#### Built With
-
-HTML5
-
-CSS3
-
-JavaScript
-
-PHP
-
-MySQL
-
-<br>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+</p>
 
 🎥 Demo Available
 
 </td>
 
 </tr>
-
 </table>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,mysql,vscode,github"/>
+
+</p>
 
 ---
 
@@ -148,32 +89,39 @@ MySQL
 
 ---
 
-# 🌱 Currently Learning
+# 👋 About Me
 
-- React
-- JavaScript
-- Building responsive web applications
-- Writing cleaner and maintainable code
-- Modern web development practices
+I'm **Ray**, a **Bachelor of Science in Information Technology** graduate with a passion for building responsive and user-friendly web applications.
+
+I enjoy learning by building real projects, understanding how systems work, and continuously improving my development skills. My goal is to write clean, maintainable code while creating applications that provide practical solutions.
 
 ---
 
-# 📬 Connect
+# 🌱 Current Focus
 
-<div align="center">
+- ⚛️ Improving my React skills
+- 💻 Building responsive web applications
+- 📚 Writing cleaner and maintainable code
+- 🚀 Expanding my portfolio with real-world projects
 
-<a href="https://wanaytsdev.netlify.app">Portfolio</a> •
-<a href="https://github.com/Wanayts">GitHub</a> •
-<a href="mailto:johnwanayts@gmail.com">Email</a>
+---
 
-</div>
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://wanaytsdev.netlify.app">🌐 Portfolio</a> •
+<a href="https://github.com/Wanayts">💻 GitHub</a> •
+<a href="mailto:johnwanayts@gmail.com">📧 Email</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-Thanks for visiting.
+### Thanks for visiting my profile!
 
-⭐ If you like my work, feel free to explore my repositories.
+*"Every project is another opportunity to learn, improve, and build something meaningful."*
 
 </div>
