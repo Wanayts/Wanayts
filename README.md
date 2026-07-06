@@ -95,7 +95,7 @@ Recent IT graduate | Actively seeking entry-level software developer roles
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p>
-        <a href="#">Demo Available</a>
+        <a href="#">Coming Soon</a>
       </p>
     </td>
   </tr>
@@ -104,12 +104,6 @@ Recent IT graduate | Actively seeking entry-level software developer roles
 ---
 
 ## Github Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wanayts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
@@ -122,21 +116,13 @@ Recent IT graduate | Actively seeking entry-level software developer roles
 
 ---
 
-## let's connect
+## Let's connect
 
 <div align="center">
   
   <a href="mailto:johnwanayts@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-johnwanayts%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href="https://bossjob.com/ph/profile">
-    <img src="https://img.shields.io/badge/Bossjob-Profile-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMiIgeT0iNyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiByeD0iMiIgc3Ryb2tlPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xNiAyMVY1YTIgMiAwIDAgMC0yLTJoLTRhMiAyIDAgMCAwLTIgMnYxNiIgc3Ryb2tlPSJ3aGl0ZSIvPjwvc3ZnPg==" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>📍 Philippines · ⏰ UTC+8 · 💼 Open to opportunities</sub>
 </div>
 
 ---
@@ -147,5 +133,5 @@ Recent IT graduate | Actively seeking entry-level software developer roles
   
   <br><br>
   
-  <sub>built with coffee and curiosity</sub>
+  <sub>I read code. I learn from AI. I build things that work.</sub>
 </div>
