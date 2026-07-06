@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi, i'm wanayts.</h1>
+  <h1>hi, i'm ray.</h1>
   
   <p><em>software developer · problem solver · lifelong learner</em></p>
   
@@ -9,10 +9,6 @@
   <a href="https://wanaytsdev.netlify.app"><img src="https://img.shields.io/badge/-portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:johnwanayts@gmail.com"><img src="https://img.shields.io/badge/-email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Wanayts"><img src="https://img.shields.io/badge/-github-0a0a0a?style=for-the-badge&logo=github&logoColor=white"></a>
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=3000&color=6C63FF&center=true&vCenter=true&width=450&lines=write+code.;solve+problems.;build+things.;repeat."/>
   
 </div>
 
@@ -25,31 +21,88 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## toolbox
+## tech stacks
 
-| Area | Tools |
-|------|-------|
-| Frontend | HTML · CSS · JavaScript · React · Bootstrap |
-| Backend | PHP · MySQL |
-| Workflow | VS Code · Git · GitHub · Netlify |
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="48" height="48" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="48" height="48" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="48" height="48" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="48" height="48" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
-## projects i'm proud of
+## featured projects
 
-### 🚕 TechTaxi
-Corporate website built for clarity and performance.  
-`html` `css` `javascript` `bootstrap`  
-→ [techtaxiinc.com](https://www.techtaxiinc.com/)
-
-### 😁 OnSmile
-Capstone project — a complete web-based system from planning to deployment.  
-`html` `css` `javascript` `php` `mysql`  
-→ demo available on request
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TechTaxi</h3>
+      <p>Corporate website built for clarity and performance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://www.techtaxiinc.com/">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>OnSmile</h3>
+      <p>Capstone project — a complete web-based system from planning to deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>
+        <a href="#">Demo Available</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## activity
+## github activity
+
+<p align="center">
+  <img src="https://github.com/Wanayts/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wanayts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
@@ -62,15 +115,24 @@ Capstone project — a complete web-based system from planning to deployment.
 
 ---
 
-## let's connect
+## professional contact
 
-I'm always open to collaborating on meaningful projects or just having a conversation about code.
+I'm always open to discussing new opportunities, collaborations, or interesting projects. Feel free to reach out.
 
-📬 **johnwanayts@gmail.com**  
-🌐 **wanaytsdev.netlify.app**
+| | |
+|---|---|
+| **Email** | [johnwanayts@gmail.com](mailto:johnwanayts@gmail.com) |
+| **Portfolio** | [wanaytsdev.netlify.app](https://wanaytsdev.netlify.app) |
+| **GitHub** | [github.com/Wanayts](https://github.com/Wanayts) |
+| **Location** | Philippines |
 
 ---
 
 <div align="center">
-  <sub>built with ☕ and curiosity</sub>
+  
+  <img src="https://profile-counter.glitch.me/Wanayts/count.svg" alt="Profile Views" />
+  
+  <br><br>
+  
+  <sub>built with coffee and curiosity</sub>
 </div>
