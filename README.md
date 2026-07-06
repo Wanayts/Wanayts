@@ -106,11 +106,6 @@ Recent IT graduate | Actively seeking entry-level software developer roles
 ## Github Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wanayts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanayts&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF"/>
-</p>
-
-<p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Wanayts&theme=github-dark&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"/>
 </p>
 
