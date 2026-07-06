@@ -121,10 +121,6 @@ Capstone project focused on delivering a practical web-based solution.
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wanayts&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanayts&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
