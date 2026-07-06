@@ -69,11 +69,13 @@ Recent IT graduate | Actively seeking entry-level software developer roles
 
 ## Featured Projects
 
+## featured projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>TechTaxi (Intern)</h3>
-      <p>Corporate website.</p>
+      <h3>TechTaxi <sub>(Intern)</sub></h3>
+      <p>A professional corporate website developed during my internship at TechTaxi, a software development company. The site showcases their services, portfolio, and expertise in software solutions with a responsive and modern interface designed to convert visitors into clients.</p>
       <p>
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -81,12 +83,12 @@ Recent IT graduate | Actively seeking entry-level software developer roles
         <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
       <p>
-        <a href="https://www.techtaxiinc.com/">Live Demo</a>
+        <a href="https://www.techtaxiinc.com/">🔗 Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>OnSmile(Capstone)</h3>
-      <p>A complete web-based system for Dental.</p>
+      <h3>OnSmile <sub>(Capstone)</sub></h3>
+      <p>A complete web-based system developed as a capstone project designed for dental clinics. Features full CRUD operations, secure user authentication, and database-driven architecture to streamline clinic management and patient records.</p>
       <p>
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -95,7 +97,7 @@ Recent IT graduate | Actively seeking entry-level software developer roles
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p>
-        <a href="#">Coming Soon</a>
+        <a href="#">🎥 Coming Soon</a>
       </p>
     </td>
   </tr>
