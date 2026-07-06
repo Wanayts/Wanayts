@@ -4,7 +4,7 @@
 
 ### Software Developer
 
-Building practical web applications while continuously learning through real-world projects.
+Building practical web applications through continuous learning and real-world projects.
 
 <p>
   <a href="https://wanaytsdev.netlify.app">Portfolio</a> •
@@ -16,17 +16,24 @@ Building practical web applications while continuously learning through real-wor
 
 ---
 
-## /about
+<table>
+<tr>
 
-Hi! I'm **Ray**, a **Bachelor of Science in Information Technology** graduate passionate about building responsive and user-friendly web applications.
+<td width="55%" valign="top">
 
-I enjoy understanding how systems work, reading and improving code, and turning ideas into practical solutions through personal and academic projects.
+## About
 
-I'm continuously learning modern web technologies and always looking for opportunities to grow as a software developer.
+Hi! I'm **Ray**, a **Bachelor of Science in Information Technology** graduate passionate about building clean, responsive, and user-friendly web applications.
 
----
+I enjoy understanding how systems work, improving existing code, and turning ideas into practical solutions through personal and academic projects.
 
-## /tech-stack
+I'm continuously learning modern development practices while expanding my knowledge one project at a time.
+
+</td>
+
+<td width="45%" valign="top">
+
+## Tech Stack
 
 ### Languages
 
@@ -34,7 +41,7 @@ I'm continuously learning modern web technologies and always looking for opportu
 <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap" />
@@ -46,89 +53,108 @@ I'm continuously learning modern web technologies and always looking for opportu
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Development Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-## /featured-projects
+# Featured Projects
 
-### 🚀 TechTaxi Website
+<table>
+<tr>
 
-A responsive website built with modern web technologies, focusing on a clean user interface and a smooth browsing experience.
+<td width="50%" valign="top">
+
+## 🚕
+
+### TechTaxi Website
+
+Responsive corporate website developed with modern front-end technologies.
 
 **Tech Stack**
 
 - HTML5
-- CSS
+- CSS3
 - JavaScript
 - Bootstrap
 
-🔗 **Live Demo:** https://www.techtaxiinc.com/
+🌐 **Live Demo**
 
----
+https://www.techtaxiinc.com/
 
-### 📚 OnSmile
+</td>
 
-A capstone project developed to provide a practical solution through a web-based system.
+<td width="50%" valign="top">
+
+## 📚
+
+### OnSmile
+
+Capstone project focused on delivering a practical web-based solution.
 
 **Tech Stack**
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - PHP
 - MySQL
 
-🎥 **Project Demo Available**
+🎥 Project Demo Available
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## /github
+# GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wanayts&theme=github_dark&show_icons=true&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wanayts&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanayts&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanayts&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<img width="60%" src="https://streak-stats.demolab.com?user=Wanayts&theme=github-dark&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Wanayts&theme=github-dark&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## /currently-learning
+# Currently Learning
 
+- React
+- JavaScript
+- Writing cleaner and maintainable code
 - Building responsive web applications
-- Improving JavaScript and React skills
-- Writing cleaner and more maintainable code
-- Exploring modern development practices
-
----
-
-## /connect
-
-🌐 **Portfolio**  
-https://wanaytsdev.netlify.app
-
-📧 **Email**  
-johnwanayts@gmail.com
-
+- Modern web development practices
 
 ---
 
 <div align="center">
 
-Thanks for stopping by.
+## Connect
+
+<a href="https://wanaytsdev.netlify.app">Portfolio</a> •
+<a href="https://github.com/Wanayts">GitHub</a> •
+<a href="mailto:johnwanayts@gmail.com">Email</a>
+
+<br><br>
+
+Thanks for stopping by. 👋
 
 </div>
