@@ -124,22 +124,15 @@ Recent IT graduate | Actively seeking entry-level software developer roles
 
 ## let's connect
 
-Whether you have a job opportunity, a project in mind, or just want to say hello — I'd love to hear from you.
-
 <div align="center">
   
   <a href="mailto:johnwanayts@gmail.com">
-    <img src="https://img.shields.io/badge/johnwanayts%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-johnwanayts%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://wanaytsdev.netlify.app">
-    <img src="https://img.shields.io/badge/wanaytsdev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://bossjob.com/ph/profile">
+    <img src="https://img.shields.io/badge/Bossjob-Profile-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3QgeD0iMiIgeT0iNyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiByeD0iMiIgc3Ryb2tlPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik0xNiAyMVY1YTIgMiAwIDAgMC0yLTJoLTRhMiAyIDAgMCAwLTIgMnYxNiIgc3Ryb2tlPSJ3aGl0ZSIvPjwvc3ZnPg==" />
   </a>
-  
-  <a href="https://github.com/Wanayts">
-    <img src="https://img.shields.io/badge/Wanayts-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
 </div>
 
 <div align="center">
