@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>hi, i'm ray.</h1>
+  <h1>Hi, I'm Wanayts.</h1>
   
   <p><em>software developer · problem solver · lifelong learner</em></p>
   
@@ -14,14 +14,14 @@
 
 ---
 
-## currently building
+## Currently Building
 
 I work on web applications that are **simple**, **reliable**, and **useful**.  
 Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## tech stacks
+## Tech Stacks
 
 <table align="center">
   <tr>
@@ -62,7 +62,7 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## featured projects
+## Featured Projects
 
 <table>
   <tr>
@@ -98,13 +98,11 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## github activity
+## Github Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github.com/Wanayts/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wanayts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
@@ -117,7 +115,7 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## professional contact
+## Contact
 
 I'm always open to discussing new opportunities, collaborations, or interesting projects. Feel free to reach out.
 
