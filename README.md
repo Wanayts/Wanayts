@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>hi, i'm ray.</h1>
+  <h1>hi, i'm wanayts.</h1>
   
   <p><em>software developer · problem solver · lifelong learner</em></p>
   
@@ -14,14 +14,17 @@
 
 ---
 
-## currently building
+## Currently Focused
 
-I work on web applications that are **simple**, **reliable**, and **useful**.  
-Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
+Recent IT graduate | Actively seeking entry-level software developer roles
+
+- 📚 Learning: React, JavaScript, Clean Code
+- 🎯 Goal: Join a team where I can grow and build meaningful products
+- 💼 Open to: Junior Developer, Frontend, Web Developer
 
 ---
 
-## tech stacks
+## Tech Stacks
 
 <table align="center">
   <tr>
@@ -64,7 +67,7 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## featured projects
+## Featured Projects
 
 <table>
   <tr>
@@ -100,7 +103,7 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## github activity
+## Github Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake-dark.svg" />
@@ -119,16 +122,33 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ---
 
-## professional contact
+## let's connect
 
-I'm always open to discussing new opportunities, collaborations, or interesting projects. Feel free to reach out.
+Whether you have a job opportunity, a project in mind, or just want to say hello — I'd love to hear from you.
 
-| | |
-|---|---|
-| **Email** | [johnwanayts@gmail.com](mailto:johnwanayts@gmail.com) |
-| **Portfolio** | [wanaytsdev.netlify.app](https://wanaytsdev.netlify.app) |
-| **GitHub** | [github.com/Wanayts](https://github.com/Wanayts) |
-| **Location** | Philippines |
+<div align="center">
+  
+  <a href="mailto:johnwanayts@gmail.com">
+    <img src="https://img.shields.io/badge/johnwanayts%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://wanaytsdev.netlify.app">
+    <img src="https://img.shields.io/badge/wanaytsdev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Wanayts">
+    <img src="https://img.shields.io/badge/Wanayts-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/wanayts">
+    <img src="https://img.shields.io/badge/Wanayts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+</div>
+
+<div align="center">
+  <sub>📍 Philippines · ⏰ UTC+8 · 💼 Open to opportunities</sub>
+</div>
 
 ---
 
