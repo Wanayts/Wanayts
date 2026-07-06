@@ -26,11 +26,11 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />
       <br>CSS
     </td>
     <td align="center" width="96">
@@ -41,8 +41,10 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
       <br>PHP
     </td>
     <td align="center" width="96">
@@ -50,7 +52,7 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
