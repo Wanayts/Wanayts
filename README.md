@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Wanayts.dev
@@ -106,4 +105,4 @@ https://github.com/Wanayts
 *Always learning. Always building.*
 
 </div>
-```
+
