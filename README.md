@@ -1,55 +1,98 @@
 <div align="center">
 
-# Wanayts.dev
+# 🎮 Wanayts.dev
 
-### Software Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Build+•+Learn+•+Level+Up;Always+Ready+for+the+Next+Quest" />
 
-Building practical web applications through continuous learning and real-world projects.
+<br>
+
+```txt
+PLAYER PROFILE
+
+Name     : Ray
+Class    : Software Developer
+Status   : 🟢 Online
+Level    : Fresh Graduate
+Location : Philippines 🇵🇭
+
+Current Quest
+→ Build practical web applications
+→ Improve React & JavaScript
+→ Land my first Software Developer role
+```
 
 <p>
-  <a href="https://wanaytsdev.netlify.app">🌐 Portfolio</a> •
-  <a href="mailto:johnwanayts@gmail.com">📧 Email</a>
-</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&lines=BS+Information+Technology+Graduate;Web+Application+Developer;Always+Learning+and+Building)](https://git.io/typing-svg)
+<a href="https://wanaytsdev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:johnwanayts@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Wanayts">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 🚀 Featured Work
+# 🏆 Completed Quests
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-## 🚕 TechTaxi Website
+## 🚕
 
-A responsive corporate website developed using modern front-end technologies.
+### TechTaxi Website
 
-**Tech Stack**
+Responsive corporate website.
+
+#### Rewards
+
+✔ Responsive Design
+
+✔ Bootstrap UI
+
+✔ Production Deployment
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
 </p>
 
-🔗 **Live Website**
-
-https://www.techtaxiinc.com/
+🌐 https://www.techtaxiinc.com/
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 OnSmile
+## 📚
 
-Capstone project that provides a practical web-based solution.
+### OnSmile
 
-**Tech Stack**
+Capstone Project
+
+#### Rewards
+
+✔ CRUD System
+
+✔ Authentication
+
+✔ Database Integration
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+
 </p>
 
 🎥 Demo Available
@@ -57,11 +100,12 @@ Capstone project that provides a practical web-based solution.
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+# 🎒 Inventory
 
 <p align="center">
 
@@ -71,7 +115,7 @@ Capstone project that provides a practical web-based solution.
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 Player Stats
 
 <p align="center">
 
@@ -89,39 +133,78 @@ Capstone project that provides a practical web-based solution.
 
 ---
 
-# 👋 About Me
+# 📜 Character Bio
 
-I'm **Ray**, a **Bachelor of Science in Information Technology** graduate with a passion for building responsive and user-friendly web applications.
+```txt
+BS Information Technology Graduate
 
-I enjoy learning by building real projects, understanding how systems work, and continuously improving my development skills. My goal is to write clean, maintainable code while creating applications that provide practical solutions.
+Specializes in
+
+• Responsive Web Applications
+• Front-end Development
+• PHP Web Systems
+
+Enjoys learning through projects,
+reading documentation,
+and continuously improving
+development skills.
+```
 
 ---
 
-# 🌱 Current Focus
+# 🎯 Current Mission
 
-- ⚛️ Improving my React skills
-- 💻 Building responsive web applications
-- 📚 Writing cleaner and maintainable code
-- 🚀 Expanding my portfolio with real-world projects
+```txt
+[✔] Build real-world projects
+
+[✔] Improve React
+
+[✔] Learn modern development practices
+
+[ ] Join a software development team
+
+[ ] Level Up
+```
 
 ---
 
-# 📬 Let's Connect
+# 📡 Fast Travel
 
-<p align="center">
+<div align="center">
 
-<a href="https://wanaytsdev.netlify.app">🌐 Portfolio</a> •
-<a href="https://github.com/Wanayts">💻 GitHub</a> •
-<a href="mailto:johnwanayts@gmail.com">📧 Email</a>
+<a href="https://wanaytsdev.netlify.app">
+🌐 Portfolio
+</a>
 
-</p>
+•
+
+<a href="mailto:johnwanayts@gmail.com">
+📧 Email
+</a>
+
+•
+
+<a href="https://github.com/Wanayts">
+💻 GitHub
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+```
+██████████████████████████████
 
-*"Every project is another opportunity to learn, improve, and build something meaningful."*
+MISSION STATUS
+
+Continue Building.
+Continue Learning.
+
+EXP +1
+
+██████████████████████████████
+```
 
 </div>
