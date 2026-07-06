@@ -86,7 +86,7 @@ Recent IT graduate | Actively seeking entry-level software developer roles
     </td>
     <td width="50%" valign="top">
       <h3>OnSmile</h3>
-      <p>Capstone project — a complete web-based system from planning to deployment.</p>
+      <p>Capstone project — a complete web-based system for Dental.</p>
       <p>
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -123,10 +123,5 @@ Recent IT graduate | Actively seeking entry-level software developer roles
 ---
 
 <div align="center">
-  
-  <img src="https://profile-counter.glitch.me/Wanayts/count.svg" alt="Profile Views" />
-  
-  <br><br>
-  
   <sub>I read code. I learn from AI. I build things that work.</sub>
 </div>
