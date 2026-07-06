@@ -100,9 +100,11 @@ Right now, I'm sharpening my skills in React and writing cleaner JavaScript.
 
 ## github activity
 
-<p align="center">
-  <img src="https://github.com/Wanayts/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wanayts/Wanayts/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Wanayts&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
