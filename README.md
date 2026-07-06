@@ -122,27 +122,17 @@ Recent IT graduate | Actively seeking entry-level software developer roles
 
 ---
 
-## let's connect
-
-Whether you have a job opportunity, a project in mind, or just want to say hello — I'd love to hear from you.
+## contact
 
 <div align="center">
   
-  <a href="mailto:johnwanayts@gmail.com">
-    <img src="https://img.shields.io/badge/johnwanayts%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  **Email:** [johnwanayts@gmail.com](mailto:johnwanayts@gmail.com) &nbsp;|&nbsp;
+  **Portfolio:** [wanaytsdev.netlify.app](https://wanaytsdev.netlify.app) &nbsp;|&nbsp;
+  **GitHub:** [github.com/Wanayts](https://github.com/Wanayts)
   
-  <a href="https://wanaytsdev.netlify.app">
-    <img src="https://img.shields.io/badge/wanaytsdev.netlify.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <br>
   
-  <a href="https://github.com/Wanayts">
-    <img src="https://img.shields.io/badge/Wanayts-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://linkedin.com/in/wanayts">
-    <img src="https://img.shields.io/badge/Wanayts-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <sub>📍 Philippines · Open to opportunities</sub>
   
 </div>
 
