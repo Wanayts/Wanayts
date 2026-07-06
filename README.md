@@ -2,13 +2,13 @@
 
 # Wanayts.dev
 
-### Software Developer
+### 💻 Software Developer
 
 Building practical, responsive, and user-focused web applications.
 
 <p>
-<a href="https://wanaytsdev.netlify.app">Portfolio</a> •
-<a href="mailto:johnwanayts@gmail.com">Email</a>
+<a href="https://wanaytsdev.netlify.app">🌐 Portfolio</a> •
+<a href="mailto:johnwanayts@gmail.com">✉️ Email</a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2200&color=58A6FF&center=true&vCenter=true&width=500&lines=Build.;Learn.;Improve.;Ship."/>
@@ -17,7 +17,7 @@ Building practical, responsive, and user-focused web applications.
 
 ---
 
-## About
+## 👤 About
 
 I'm **Ray**, a Bachelor of Science in Information Technology graduate passionate about building modern web applications.
 
@@ -25,40 +25,36 @@ I enjoy transforming ideas into functional solutions, improving existing code, a
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 | Focus | Technologies |
 |-------|--------------|
-| **Build** | HTML5 • CSS3 • JavaScript • PHP |
-| **Develop** | React • Bootstrap |
-| **Manage Data** | MySQL |
-| **Tools** | Visual Studio Code • GitHub |
+| **⚡ Build** | HTML5 • CSS3 • JavaScript • PHP |
+| **🚀 Develop** | React • Bootstrap |
+| **🗄️ Manage Data** | MySQL |
+| **🧰 Tools** | Visual Studio Code • GitHub |
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
-### TechTaxi Website
+### 🚖 TechTaxi Website  
+A responsive corporate website focused on performance, accessibility, and a clean user experience.  
 
-A responsive corporate website focused on performance, accessibility, and a clean user experience.
-
-**Tech:** HTML • CSS • JavaScript • Bootstrap
-
+**Tech:** HTML • CSS • JavaScript • Bootstrap  
 🌐 https://www.techtaxiinc.com/
 
 ---
 
-### OnSmile
+### 😁 OnSmile  
+A capstone web application developed to provide a practical solution through a complete web-based system.  
 
-A capstone web application developed to provide a practical solution through a complete web-based system.
-
-**Tech:** HTML • CSS • JavaScript • PHP • MySQL
-
+**Tech:** HTML • CSS • JavaScript • PHP • MySQL  
 🎥 Demo Available
 
 ---
 
-## GitHub
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -76,33 +72,26 @@ A capstone web application developed to provide a practical solution through a c
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Building practical web applications
-- Strengthening React and JavaScript skills
-- Writing cleaner and more maintainable code
-- Expanding my portfolio with meaningful projects
+- Building practical web applications  
+- Strengthening React and JavaScript skills  
+- Writing cleaner and more maintainable code  
+- Expanding my portfolio with meaningful projects  
 
 ---
 
-## Contact
+## 📬 Contact
 
-Portfolio  
-https://wanaytsdev.netlify.app
-
-Email  
-johnwanayts@gmail.com
-
-GitHub  
-https://github.com/Wanayts
+- 🌐 Portfolio → https://wanaytsdev.netlify.app  
+- ✉️ Email → johnwanayts@gmail.com  
+- 💻 GitHub → https://github.com/Wanayts  
 
 ---
 
 <div align="center">
 
-**Thanks for visiting.**
-
+**Thanks for visiting.**  
 *Always learning. Always building.*
 
 </div>
-
