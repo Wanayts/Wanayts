@@ -8,7 +8,7 @@ Building practical web applications while continuously learning through real-wor
 
 <p>
   <a href="https://wanaytsdev.netlify.app">Portfolio</a> •
-  <a href="https://github.com/Wanayts?tab=repositories">Projects</a> •
+  <a href="https://wanaytsdev.netlify.app/projects">Projects</a> •
   <a href="mailto:johnwanayts@gmail.com">Contact</a>
 </p>
 
